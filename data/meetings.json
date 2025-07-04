@@ -1,0 +1,2625 @@
+[
+  {
+    "meeting_id": "meet_033",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-16T15:00:00Z",
+    "end_time": "2024-12-16T17:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-05T15:00:00Z",
+    "updated_at": "2024-12-15T15:00:00Z",
+    "effectiveness_score": 8.9,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_044",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-16T15:00:00Z",
+    "end_time": "2024-12-16T16:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-11T15:00:00Z",
+    "updated_at": "2024-12-11T15:00:00Z",
+    "effectiveness_score": 7.6,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_059",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_010",
+    "start_time": "2024-12-16T16:00:00Z",
+    "end_time": "2024-12-16T18:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-14T16:00:00Z",
+    "updated_at": "2024-12-13T16:00:00Z",
+    "effectiveness_score": 8.7,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_056",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_004",
+    "start_time": "2024-12-18T11:00:00Z",
+    "end_time": "2024-12-18T12:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "bi_weekly",
+    "created_at": "2024-12-11T11:00:00Z",
+    "updated_at": "2024-12-18T11:00:00Z",
+    "effectiveness_score": 9.3,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_040",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_010",
+    "start_time": "2024-12-19T09:30:00Z",
+    "end_time": "2024-12-19T11:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-16T09:30:00Z",
+    "updated_at": "2024-12-16T09:30:00Z",
+    "effectiveness_score": 7.3,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_041",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-19T10:00:00Z",
+    "end_time": "2024-12-19T12:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-07T10:00:00Z",
+    "updated_at": "2024-12-12T10:00:00Z",
+    "effectiveness_score": 9.4,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_054",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-19T10:00:00Z",
+    "end_time": "2024-12-19T10:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-05T10:00:00Z",
+    "updated_at": "2024-12-14T10:00:00Z",
+    "effectiveness_score": 7.9,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_063",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-19T11:00:00Z",
+    "end_time": "2024-12-19T12:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-12T11:00:00Z",
+    "updated_at": "2024-12-12T11:00:00Z",
+    "effectiveness_score": 7.5,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_042",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-19T14:00:00Z",
+    "end_time": "2024-12-19T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-16T14:00:00Z",
+    "updated_at": "2024-12-15T14:00:00Z",
+    "effectiveness_score": 7.6,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_055",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_010",
+    "start_time": "2024-12-19T15:00:00Z",
+    "end_time": "2024-12-19T17:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-14T15:00:00Z",
+    "updated_at": "2024-12-16T15:00:00Z",
+    "effectiveness_score": 9.3,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_048",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-19T16:30:00Z",
+    "end_time": "2024-12-19T18:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-16T16:30:00Z",
+    "updated_at": "2024-12-19T16:30:00Z",
+    "effectiveness_score": 8.6,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_049",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-20T09:00:00Z",
+    "end_time": "2024-12-20T09:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "bi_weekly",
+    "created_at": "2024-12-06T09:00:00Z",
+    "updated_at": "2024-12-14T09:00:00Z",
+    "effectiveness_score": 7.5,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_046",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-20T11:30:00Z",
+    "end_time": "2024-12-20T13:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-17T11:30:00Z",
+    "updated_at": "2024-12-19T11:30:00Z",
+    "effectiveness_score": 8.9,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_034",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_004",
+    "start_time": "2024-12-20T15:00:00Z",
+    "end_time": "2024-12-20T16:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-11T15:00:00Z",
+    "updated_at": "2024-12-14T15:00:00Z",
+    "effectiveness_score": 7.1,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_065",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_003",
+    "start_time": "2024-12-21T09:00:00Z",
+    "end_time": "2024-12-21T10:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-16T09:00:00Z",
+    "updated_at": "2024-12-21T09:00:00Z",
+    "effectiveness_score": 8.7,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_058",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-22T09:30:00Z",
+    "end_time": "2024-12-22T11:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-14T09:30:00Z",
+    "updated_at": "2024-12-21T09:30:00Z",
+    "effectiveness_score": 7.7,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_052",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-24T16:00:00Z",
+    "end_time": "2024-12-24T16:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-22T16:00:00Z",
+    "updated_at": "2024-12-19T16:00:00Z",
+    "effectiveness_score": 9.1,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_037",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-25T09:30:00Z",
+    "end_time": "2024-12-25T10:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-13T09:30:00Z",
+    "updated_at": "2024-12-21T09:30:00Z",
+    "effectiveness_score": 7.4,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_050",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-25T14:00:00Z",
+    "end_time": "2024-12-25T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-24T14:00:00Z",
+    "updated_at": "2024-12-21T14:00:00Z",
+    "effectiveness_score": 9.4,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_051",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_004",
+    "start_time": "2024-12-25T15:30:00Z",
+    "end_time": "2024-12-25T17:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-11T15:30:00Z",
+    "updated_at": "2024-12-19T15:30:00Z",
+    "effectiveness_score": 7.1,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_036",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_005",
+    "start_time": "2024-12-25T16:00:00Z",
+    "end_time": "2024-12-25T16:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-22T16:00:00Z",
+    "updated_at": "2024-12-20T16:00:00Z",
+    "effectiveness_score": 7.5,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_049",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_008",
+    "start_time": "2024-12-26T10:30:00Z",
+    "end_time": "2024-12-26T11:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-23T10:30:00Z",
+    "updated_at": "2024-12-25T10:30:00Z",
+    "effectiveness_score": 7.5,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_053",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-26T13:00:00Z",
+    "end_time": "2024-12-26T15:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-21T13:00:00Z",
+    "updated_at": "2024-12-24T13:00:00Z",
+    "effectiveness_score": 9.3,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_057",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-27T09:00:00Z",
+    "end_time": "2024-12-27T09:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "bi_weekly",
+    "created_at": "2024-12-16T09:00:00Z",
+    "updated_at": "2024-12-24T09:00:00Z",
+    "effectiveness_score": 7.5,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_059",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_006",
+    "start_time": "2024-12-27T09:30:00Z",
+    "end_time": "2024-12-27T11:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-13T09:30:00Z",
+    "updated_at": "2024-12-20T09:30:00Z",
+    "effectiveness_score": 8.1,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_062",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_005",
+    "start_time": "2024-12-27T10:00:00Z",
+    "end_time": "2024-12-27T10:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-23T10:00:00Z",
+    "updated_at": "2024-12-24T10:00:00Z",
+    "effectiveness_score": 7.8,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_034",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-27T11:00:00Z",
+    "end_time": "2024-12-27T13:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-25T11:00:00Z",
+    "updated_at": "2024-12-26T11:00:00Z",
+    "effectiveness_score": 7.6,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_032",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-27T13:00:00Z",
+    "end_time": "2024-12-27T15:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-20T13:00:00Z",
+    "updated_at": "2024-12-26T13:00:00Z",
+    "effectiveness_score": 7.9,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_058",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_005",
+    "start_time": "2024-12-27T14:00:00Z",
+    "end_time": "2024-12-27T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-18T14:00:00Z",
+    "updated_at": "2024-12-22T14:00:00Z",
+    "effectiveness_score": 8.3,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_035",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-28T09:30:00Z",
+    "end_time": "2024-12-28T10:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-20T09:30:00Z",
+    "updated_at": "2024-12-26T09:30:00Z",
+    "effectiveness_score": 8.8,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_056",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_004",
+    "start_time": "2024-12-28T13:00:00Z",
+    "end_time": "2024-12-28T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-25T13:00:00Z",
+    "updated_at": "2024-12-25T13:00:00Z",
+    "effectiveness_score": 8.5,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_043",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-28T14:00:00Z",
+    "end_time": "2024-12-28T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-22T14:00:00Z",
+    "updated_at": "2024-12-21T14:00:00Z",
+    "effectiveness_score": 7.7,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_035",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-28T15:00:00Z",
+    "end_time": "2024-12-28T17:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-22T15:00:00Z",
+    "updated_at": "2024-12-22T15:00:00Z",
+    "effectiveness_score": 9.1,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_048",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-28T15:00:00Z",
+    "end_time": "2024-12-28T15:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-21T15:00:00Z",
+    "updated_at": "2024-12-26T15:00:00Z",
+    "effectiveness_score": 8.1,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_053",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-28T16:30:00Z",
+    "end_time": "2024-12-28T17:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-15T16:30:00Z",
+    "updated_at": "2024-12-25T16:30:00Z",
+    "effectiveness_score": 7.8,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_043",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-30T09:00:00Z",
+    "end_time": "2024-12-30T09:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-18T09:00:00Z",
+    "updated_at": "2024-12-23T09:00:00Z",
+    "effectiveness_score": 7.9,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_047",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_006",
+    "start_time": "2024-12-30T11:00:00Z",
+    "end_time": "2024-12-30T13:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-24T11:00:00Z",
+    "updated_at": "2024-12-29T11:00:00Z",
+    "effectiveness_score": 7.7,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_027",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-30T11:30:00Z",
+    "end_time": "2024-12-30T13:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-16T11:30:00Z",
+    "updated_at": "2024-12-23T11:30:00Z",
+    "effectiveness_score": 8.6,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_031",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-30T16:00:00Z",
+    "end_time": "2024-12-30T18:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-26T16:00:00Z",
+    "updated_at": "2024-12-28T16:00:00Z",
+    "effectiveness_score": 8.9,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_064",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_008",
+    "start_time": "2024-12-31T11:00:00Z",
+    "end_time": "2024-12-31T11:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-20T11:00:00Z",
+    "updated_at": "2024-12-26T11:00:00Z",
+    "effectiveness_score": 8.7,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_061",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_004",
+    "start_time": "2024-12-31T11:30:00Z",
+    "end_time": "2024-12-31T13:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-25T11:30:00Z",
+    "updated_at": "2024-12-24T11:30:00Z",
+    "effectiveness_score": 9.4,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_038",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-31T13:30:00Z",
+    "end_time": "2024-12-31T15:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-24T13:30:00Z",
+    "updated_at": "2024-12-26T13:30:00Z",
+    "effectiveness_score": 7.2,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_029",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-31T15:00:00Z",
+    "end_time": "2024-12-31T17:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-24T15:00:00Z",
+    "updated_at": "2024-12-31T15:00:00Z",
+    "effectiveness_score": 9.4,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_064",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_008",
+    "start_time": "2025-01-01T12:30:00Z",
+    "end_time": "2025-01-01T13:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-31T12:30:00Z",
+    "updated_at": "2024-12-29T12:30:00Z",
+    "effectiveness_score": 7.3,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_050",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_002",
+    "start_time": "2025-01-01T14:00:00Z",
+    "end_time": "2025-01-01T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-26T14:00:00Z",
+    "updated_at": "2024-12-25T14:00:00Z",
+    "effectiveness_score": 7.4,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_030",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_006",
+    "start_time": "2025-01-01T14:30:00Z",
+    "end_time": "2025-01-01T16:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-29T14:30:00Z",
+    "updated_at": "2024-12-26T14:30:00Z",
+    "effectiveness_score": 7.6,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_057",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_004",
+    "start_time": "2025-01-01T14:30:00Z",
+    "end_time": "2025-01-01T16:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-27T14:30:00Z",
+    "updated_at": "2024-12-25T14:30:00Z",
+    "effectiveness_score": 7.6,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_039",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_002",
+    "start_time": "2025-01-02T09:00:00Z",
+    "end_time": "2025-01-02T09:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "bi_weekly",
+    "created_at": "2024-12-29T09:00:00Z",
+    "updated_at": "2025-01-01T09:00:00Z",
+    "effectiveness_score": 7.8,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_060",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_005",
+    "start_time": "2025-01-02T10:00:00Z",
+    "end_time": "2025-01-02T10:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-25T10:00:00Z",
+    "updated_at": "2024-12-26T10:00:00Z",
+    "effectiveness_score": 8.7,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_027",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_005",
+    "start_time": "2025-01-02T10:30:00Z",
+    "end_time": "2025-01-02T12:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-25T10:30:00Z",
+    "updated_at": "2025-01-02T10:30:00Z",
+    "effectiveness_score": 7.6,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_062",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_006",
+    "start_time": "2025-01-02T15:30:00Z",
+    "end_time": "2025-01-02T17:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-21T15:30:00Z",
+    "updated_at": "2024-12-28T15:30:00Z",
+    "effectiveness_score": 7.1,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_039",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_002",
+    "start_time": "2025-01-03T14:00:00Z",
+    "end_time": "2025-01-03T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-01T14:00:00Z",
+    "updated_at": "2024-12-28T14:00:00Z",
+    "effectiveness_score": 7.1,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_026",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_002",
+    "start_time": "2025-01-03T14:30:00Z",
+    "end_time": "2025-01-03T16:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-27T14:30:00Z",
+    "updated_at": "2025-01-01T14:30:00Z",
+    "effectiveness_score": 8.4,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_036",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_008",
+    "start_time": "2025-01-04T09:00:00Z",
+    "end_time": "2025-01-04T11:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-25T09:00:00Z",
+    "updated_at": "2025-01-01T09:00:00Z",
+    "effectiveness_score": 8.6,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_045",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_002",
+    "start_time": "2025-01-04T11:30:00Z",
+    "end_time": "2025-01-04T12:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-22T11:30:00Z",
+    "updated_at": "2024-12-31T11:30:00Z",
+    "effectiveness_score": 9.0,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_061",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2025-01-04T14:00:00Z",
+    "end_time": "2025-01-04T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-02T14:00:00Z",
+    "updated_at": "2024-12-30T14:00:00Z",
+    "effectiveness_score": 8.5,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_028",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_001",
+    "start_time": "2025-01-05T16:00:00Z",
+    "end_time": "2025-01-05T17:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "monthly",
+    "created_at": "2025-01-03T16:00:00Z",
+    "updated_at": "2025-01-04T16:00:00Z",
+    "effectiveness_score": 7.4,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_045",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_001",
+    "start_time": "2025-01-05T16:00:00Z",
+    "end_time": "2025-01-05T17:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-26T16:00:00Z",
+    "updated_at": "2025-01-04T16:00:00Z",
+    "effectiveness_score": 7.8,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_047",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_006",
+    "start_time": "2025-01-06T15:30:00Z",
+    "end_time": "2025-01-06T17:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "bi_weekly",
+    "created_at": "2024-12-29T15:30:00Z",
+    "updated_at": "2025-01-02T15:30:00Z",
+    "effectiveness_score": 9.4,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_065",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_006",
+    "start_time": "2025-01-06T16:00:00Z",
+    "end_time": "2025-01-06T18:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-05T16:00:00Z",
+    "updated_at": "2025-01-02T16:00:00Z",
+    "effectiveness_score": 7.9,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_026",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_002",
+    "start_time": "2025-01-06T16:30:00Z",
+    "end_time": "2025-01-06T18:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-02T16:30:00Z",
+    "updated_at": "2025-01-04T16:30:00Z",
+    "effectiveness_score": 7.8,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_028",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_008",
+    "start_time": "2025-01-07T12:30:00Z",
+    "end_time": "2025-01-07T13:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "weekly",
+    "created_at": "2025-01-02T12:30:00Z",
+    "updated_at": "2025-01-01T12:30:00Z",
+    "effectiveness_score": 8.0,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_037",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_003",
+    "start_time": "2025-01-07T13:00:00Z",
+    "end_time": "2025-01-07T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-30T13:00:00Z",
+    "updated_at": "2025-01-04T13:00:00Z",
+    "effectiveness_score": 8.8,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_044",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_005",
+    "start_time": "2025-01-07T15:00:00Z",
+    "end_time": "2025-01-07T17:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-05T15:00:00Z",
+    "updated_at": "2025-01-02T15:00:00Z",
+    "effectiveness_score": 9.3,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_052",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_006",
+    "start_time": "2025-01-08T10:30:00Z",
+    "end_time": "2025-01-08T12:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-29T10:30:00Z",
+    "updated_at": "2025-01-08T10:30:00Z",
+    "effectiveness_score": 7.8,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_040",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_010",
+    "start_time": "2025-01-08T15:30:00Z",
+    "end_time": "2025-01-08T17:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "weekly",
+    "created_at": "2024-12-25T15:30:00Z",
+    "updated_at": "2025-01-06T15:30:00Z",
+    "effectiveness_score": 7.0,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_051",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_002",
+    "start_time": "2025-01-09T10:00:00Z",
+    "end_time": "2025-01-09T12:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-03T10:00:00Z",
+    "updated_at": "2025-01-07T10:00:00Z",
+    "effectiveness_score": 8.4,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_046",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_010",
+    "start_time": "2025-01-09T14:00:00Z",
+    "end_time": "2025-01-09T16:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-07T14:00:00Z",
+    "updated_at": "2025-01-03T14:00:00Z",
+    "effectiveness_score": 7.9,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_063",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2025-01-10T14:00:00Z",
+    "end_time": "2025-01-10T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-04T14:00:00Z",
+    "updated_at": "2025-01-03T14:00:00Z",
+    "effectiveness_score": 7.3,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_032",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_002",
+    "start_time": "2025-01-11T09:30:00Z",
+    "end_time": "2025-01-11T10:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-28T09:30:00Z",
+    "updated_at": "2025-01-08T09:30:00Z",
+    "effectiveness_score": 8.8,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_054",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2025-01-11T10:30:00Z",
+    "end_time": "2025-01-11T12:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-02T10:30:00Z",
+    "updated_at": "2025-01-11T10:30:00Z",
+    "effectiveness_score": 9.5,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_033",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2025-01-11T14:00:00Z",
+    "end_time": "2025-01-11T16:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-02T14:00:00Z",
+    "updated_at": "2025-01-09T14:00:00Z",
+    "effectiveness_score": 7.3,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_031",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_006",
+    "start_time": "2025-01-11T16:30:00Z",
+    "end_time": "2025-01-11T18:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-28T16:30:00Z",
+    "updated_at": "2025-01-10T16:30:00Z",
+    "effectiveness_score": 9.0,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_060",
+    "title": "One-on-One Meeting",
+    "description": "Manager and direct report 1:1",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2025-01-12T12:30:00Z",
+    "end_time": "2025-01-12T13:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Career development",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "bi_weekly",
+    "created_at": "2025-01-11T12:30:00Z",
+    "updated_at": "2025-01-08T12:30:00Z",
+    "effectiveness_score": 8.4,
+    "metadata": {
+      "generated": true,
+      "template": "one-on-one_meeting",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_055",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_006",
+    "start_time": "2025-01-12T14:00:00Z",
+    "end_time": "2025-01-12T16:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-01T14:00:00Z",
+    "updated_at": "2025-01-07T14:00:00Z",
+    "effectiveness_score": 7.1,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_042",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_005",
+    "start_time": "2025-01-13T09:30:00Z",
+    "end_time": "2025-01-13T11:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-06T09:30:00Z",
+    "updated_at": "2025-01-07T09:30:00Z",
+    "effectiveness_score": 9.2,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_041",
+    "title": "Weekly Team Standup",
+    "description": "Daily standup for team coordination",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2025-01-13T16:30:00Z",
+    "end_time": "2025-01-13T17:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Progress updates",
+      "Blockers",
+      "Today's goals"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2025-01-10T16:30:00Z",
+    "updated_at": "2025-01-11T16:30:00Z",
+    "effectiveness_score": 7.8,
+    "metadata": {
+      "generated": true,
+      "template": "weekly_team_standup",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_029",
+    "title": "Sprint Planning",
+    "description": "Planning next sprint iteration",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_008",
+    "start_time": "2025-01-14T09:00:00Z",
+    "end_time": "2025-01-14T11:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Backlog review",
+      "Story estimation",
+      "Sprint commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "monthly",
+    "created_at": "2025-01-07T09:00:00Z",
+    "updated_at": "2025-01-08T09:00:00Z",
+    "effectiveness_score": 8.9,
+    "metadata": {
+      "generated": true,
+      "template": "sprint_planning",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_030",
+    "title": "Design Review",
+    "description": "Review of design proposals and mockups",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_003",
+    "start_time": "2025-01-14T09:30:00Z",
+    "end_time": "2025-01-14T11:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Design presentation",
+      "Feedback collection",
+      "Next iterations"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "weekly",
+    "created_at": "2025-01-06T09:30:00Z",
+    "updated_at": "2025-01-11T09:30:00Z",
+    "effectiveness_score": 9.4,
+    "metadata": {
+      "generated": true,
+      "template": "design_review",
+      "batch": "additional_40"
+    }
+  },
+  {
+    "meeting_id": "meet_038",
+    "title": "Architecture Discussion",
+    "description": "Technical architecture planning session",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_010"
+    ],
+    "organizer": "user_010",
+    "start_time": "2025-01-14T11:30:00Z",
+    "end_time": "2025-01-14T13:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "System design",
+      "Technology choices",
+      "Scalability planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-31T11:30:00Z",
+    "updated_at": "2025-01-12T11:30:00Z",
+    "effectiveness_score": 8.2,
+    "metadata": {
+      "generated": true,
+      "template": "architecture_discussion",
+      "batch": "additional_40"
+    }
+  }
+]

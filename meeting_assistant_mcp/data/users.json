@@ -1,0 +1,424 @@
+[
+  {
+    "user_id": "user_001",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@company.com",
+    "role": "Engineering Manager",
+    "department": "Engineering",
+    "manager_id": "user_010",
+    "preferences": {
+      "time_zone": "America/New_York",
+      "working_hours_start": "09:00:00",
+      "working_hours_end": "17:00:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "12:00:00",
+      "lunch_break_end": "13:00:00",
+      "productive_periods": [
+        "morning",
+        "afternoon"
+      ],
+      "no_meetings_before": "08:30:00",
+      "no_meetings_after": "17:30:00",
+      "meeting_free_blocks": [
+        "Friday 14:00-17:00"
+      ],
+      "max_daily_meetings": 6,
+      "max_consecutive_meetings": 3,
+      "buffer_time_minutes": 15,
+      "preferred_meeting_duration": 30,
+      "avoid_back_to_back": true
+    },
+    "is_active": true,
+    "created_at": "2024-01-15",
+    "metadata": {
+      "seniority_level": "senior",
+      "team_size": 8
+    }
+  },
+  {
+    "user_id": "user_002",
+    "name": "Marcus Johnson",
+    "email": "marcus.johnson@company.com",
+    "role": "Senior Software Engineer",
+    "department": "Engineering",
+    "manager_id": "user_001",
+    "preferences": {
+      "time_zone": "America/Los_Angeles",
+      "working_hours_start": "08:00:00",
+      "working_hours_end": "16:00:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "12:30:00",
+      "lunch_break_end": "13:30:00",
+      "productive_periods": [
+        "early_morning",
+        "morning"
+      ],
+      "no_meetings_before": "08:00:00",
+      "no_meetings_after": "16:30:00",
+      "meeting_free_blocks": [
+        "Monday 08:00-10:00",
+        "Wednesday 14:00-16:00"
+      ],
+      "max_daily_meetings": 5,
+      "max_consecutive_meetings": 2,
+      "buffer_time_minutes": 10,
+      "preferred_meeting_duration": 45,
+      "avoid_back_to_back": true
+    },
+    "is_active": true,
+    "created_at": "2024-02-01",
+    "metadata": {
+      "seniority_level": "senior",
+      "specialization": "backend"
+    }
+  },
+  {
+    "user_id": "user_003",
+    "name": "Emma Rodriguez",
+    "email": "emma.rodriguez@company.com",
+    "role": "Product Manager",
+    "department": "Product",
+    "manager_id": "user_011",
+    "preferences": {
+      "time_zone": "Europe/London",
+      "working_hours_start": "09:00:00",
+      "working_hours_end": "18:00:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "13:00:00",
+      "lunch_break_end": "14:00:00",
+      "productive_periods": [
+        "morning",
+        "late_afternoon"
+      ],
+      "no_meetings_before": "09:00:00",
+      "no_meetings_after": "18:00:00",
+      "meeting_free_blocks": [
+        "Tuesday 09:00-11:00"
+      ],
+      "max_daily_meetings": 8,
+      "max_consecutive_meetings": 4,
+      "buffer_time_minutes": 15,
+      "preferred_meeting_duration": 60,
+      "avoid_back_to_back": false
+    },
+    "is_active": true,
+    "created_at": "2024-01-20",
+    "metadata": {
+      "seniority_level": "senior",
+      "product_area": "mobile"
+    }
+  },
+  {
+    "user_id": "user_004",
+    "name": "David Kim",
+    "email": "david.kim@company.com",
+    "role": "UX Designer",
+    "department": "Design",
+    "manager_id": "user_012",
+    "preferences": {
+      "time_zone": "Asia/Seoul",
+      "working_hours_start": "09:00:00",
+      "working_hours_end": "18:00:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "12:00:00",
+      "lunch_break_end": "13:00:00",
+      "productive_periods": [
+        "afternoon",
+        "late_afternoon"
+      ],
+      "no_meetings_before": "09:30:00",
+      "no_meetings_after": "17:30:00",
+      "meeting_free_blocks": [
+        "Thursday 14:00-17:00"
+      ],
+      "max_daily_meetings": 4,
+      "max_consecutive_meetings": 2,
+      "buffer_time_minutes": 20,
+      "preferred_meeting_duration": 90,
+      "avoid_back_to_back": true
+    },
+    "is_active": true,
+    "created_at": "2024-03-01",
+    "metadata": {
+      "seniority_level": "mid",
+      "design_focus": "user_research"
+    }
+  },
+  {
+    "user_id": "user_005",
+    "name": "Lisa Wang",
+    "email": "lisa.wang@company.com",
+    "role": "Data Scientist",
+    "department": "Engineering",
+    "manager_id": "user_001",
+    "preferences": {
+      "time_zone": "America/New_York",
+      "working_hours_start": "10:00:00",
+      "working_hours_end": "18:00:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "13:00:00",
+      "lunch_break_end": "14:00:00",
+      "productive_periods": [
+        "late_afternoon",
+        "evening"
+      ],
+      "no_meetings_before": "10:00:00",
+      "no_meetings_after": "17:00:00",
+      "meeting_free_blocks": [
+        "Monday 10:00-12:00",
+        "Friday 15:00-18:00"
+      ],
+      "max_daily_meetings": 3,
+      "max_consecutive_meetings": 2,
+      "buffer_time_minutes": 30,
+      "preferred_meeting_duration": 60,
+      "avoid_back_to_back": true
+    },
+    "is_active": true,
+    "created_at": "2024-02-15",
+    "metadata": {
+      "seniority_level": "senior",
+      "specialization": "ml_engineering"
+    }
+  },
+  {
+    "user_id": "user_006",
+    "name": "Alex Thompson",
+    "email": "alex.thompson@company.com",
+    "role": "DevOps Engineer",
+    "department": "Engineering",
+    "manager_id": "user_001",
+    "preferences": {
+      "time_zone": "America/Denver",
+      "working_hours_start": "07:00:00",
+      "working_hours_end": "15:00:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "11:30:00",
+      "lunch_break_end": "12:30:00",
+      "productive_periods": [
+        "early_morning",
+        "morning"
+      ],
+      "no_meetings_before": "07:00:00",
+      "no_meetings_after": "15:00:00",
+      "meeting_free_blocks": [
+        "Wednesday 07:00-09:00"
+      ],
+      "max_daily_meetings": 4,
+      "max_consecutive_meetings": 2,
+      "buffer_time_minutes": 15,
+      "preferred_meeting_duration": 30,
+      "avoid_back_to_back": true
+    },
+    "is_active": true,
+    "created_at": "2024-01-10",
+    "metadata": {
+      "seniority_level": "senior",
+      "specialization": "infrastructure"
+    }
+  },
+  {
+    "user_id": "user_007",
+    "name": "Maria Santos",
+    "email": "maria.santos@company.com",
+    "role": "QA Engineer",
+    "department": "Engineering",
+    "manager_id": "user_001",
+    "preferences": {
+      "time_zone": "Europe/Madrid",
+      "working_hours_start": "08:30:00",
+      "working_hours_end": "17:30:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "14:00:00",
+      "lunch_break_end": "15:00:00",
+      "productive_periods": [
+        "morning",
+        "afternoon"
+      ],
+      "no_meetings_before": "08:30:00",
+      "no_meetings_after": "17:30:00",
+      "meeting_free_blocks": [
+        "Friday 15:00-17:30"
+      ],
+      "max_daily_meetings": 5,
+      "max_consecutive_meetings": 3,
+      "buffer_time_minutes": 10,
+      "preferred_meeting_duration": 45,
+      "avoid_back_to_back": false
+    },
+    "is_active": true,
+    "created_at": "2024-02-20",
+    "metadata": {
+      "seniority_level": "mid",
+      "specialization": "automation"
+    }
+  },
+  {
+    "user_id": "user_008",
+    "name": "James Wilson",
+    "email": "james.wilson@company.com",
+    "role": "Frontend Engineer",
+    "department": "Engineering",
+    "manager_id": "user_001",
+    "preferences": {
+      "time_zone": "America/New_York",
+      "working_hours_start": "09:30:00",
+      "working_hours_end": "17:30:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "12:30:00",
+      "lunch_break_end": "13:30:00",
+      "productive_periods": [
+        "morning",
+        "late_afternoon"
+      ],
+      "no_meetings_before": "09:30:00",
+      "no_meetings_after": "17:00:00",
+      "meeting_free_blocks": [
+        "Tuesday 14:00-16:00"
+      ],
+      "max_daily_meetings": 6,
+      "max_consecutive_meetings": 3,
+      "buffer_time_minutes": 15,
+      "preferred_meeting_duration": 30,
+      "avoid_back_to_back": true
+    },
+    "is_active": true,
+    "created_at": "2024-03-05",
+    "metadata": {
+      "seniority_level": "mid",
+      "specialization": "react"
+    }
+  },
+  {
+    "user_id": "user_009",
+    "name": "Priya Patel",
+    "email": "priya.patel@company.com",
+    "role": "Business Analyst",
+    "department": "Product",
+    "manager_id": "user_011",
+    "preferences": {
+      "time_zone": "Asia/Kolkata",
+      "working_hours_start": "09:00:00",
+      "working_hours_end": "18:00:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "13:00:00",
+      "lunch_break_end": "14:00:00",
+      "productive_periods": [
+        "morning",
+        "afternoon"
+      ],
+      "no_meetings_before": "09:00:00",
+      "no_meetings_after": "18:00:00",
+      "meeting_free_blocks": [
+        "Monday 16:00-18:00"
+      ],
+      "max_daily_meetings": 7,
+      "max_consecutive_meetings": 4,
+      "buffer_time_minutes": 10,
+      "preferred_meeting_duration": 45,
+      "avoid_back_to_back": false
+    },
+    "is_active": true,
+    "created_at": "2024-01-25",
+    "metadata": {
+      "seniority_level": "senior",
+      "domain": "fintech"
+    }
+  },
+  {
+    "user_id": "user_010",
+    "name": "Robert Brown",
+    "email": "robert.brown@company.com",
+    "role": "VP Engineering",
+    "department": "Engineering",
+    "manager_id": null,
+    "preferences": {
+      "time_zone": "America/New_York",
+      "working_hours_start": "08:00:00",
+      "working_hours_end": "18:00:00",
+      "working_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "lunch_break_start": "12:00:00",
+      "lunch_break_end": "13:00:00",
+      "productive_periods": [
+        "morning",
+        "afternoon"
+      ],
+      "no_meetings_before": "08:00:00",
+      "no_meetings_after": "18:00:00",
+      "meeting_free_blocks": [
+        "Thursday 16:00-18:00"
+      ],
+      "max_daily_meetings": 10,
+      "max_consecutive_meetings": 5,
+      "buffer_time_minutes": 10,
+      "preferred_meeting_duration": 60,
+      "avoid_back_to_back": false
+    },
+    "is_active": true,
+    "created_at": "2023-12-01",
+    "metadata": {
+      "seniority_level": "executive",
+      "reports": 15
+    }
+  }
+]

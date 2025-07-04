@@ -1,0 +1,835 @@
+[
+  {
+    "meeting_id": "meet_001",
+    "title": "Daily Engineering Standup",
+    "description": "Daily sync for engineering team progress and blockers",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_007",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-16T14:00:00Z",
+    "end_time": "2024-12-16T14:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "standup",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Sprint progress updates",
+      "Blockers discussion",
+      "Today's priorities"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "daily_weekdays",
+    "created_at": "2024-12-01T10:00:00Z",
+    "updated_at": "2024-12-01T10:00:00Z",
+    "effectiveness_score": 8.5,
+    "metadata": {
+      "sprint": "Sprint-24",
+      "team": "backend"
+    }
+  },
+  {
+    "meeting_id": "meet_002",
+    "title": "Product Roadmap Review",
+    "description": "Quarterly product roadmap planning and prioritization",
+    "participants": [
+      "user_003",
+      "user_009",
+      "user_010",
+      "user_001"
+    ],
+    "organizer": "user_003",
+    "start_time": "2024-12-16T16:00:00Z",
+    "end_time": "2024-12-16T17:30:00Z",
+    "time_zone": "Europe/London",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Q1 2025 priorities",
+      "Resource allocation",
+      "Market analysis",
+      "Competitive landscape"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-10T09:00:00Z",
+    "updated_at": "2024-12-12T14:00:00Z",
+    "effectiveness_score": 9.2,
+    "metadata": {
+      "quarter": "Q1-2025",
+      "stakeholders": "executive"
+    }
+  },
+  {
+    "meeting_id": "meet_003",
+    "title": "UX Research Findings Presentation",
+    "description": "Presenting user research findings for mobile app redesign",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_008",
+      "user_001"
+    ],
+    "organizer": "user_004",
+    "start_time": "2024-12-17T10:00:00Z",
+    "end_time": "2024-12-17T11:30:00Z",
+    "time_zone": "Asia/Seoul",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "User interview insights",
+      "Usability test results",
+      "Design recommendations",
+      "Next steps"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-14T08:00:00Z",
+    "updated_at": "2024-12-14T08:00:00Z",
+    "effectiveness_score": 8.8,
+    "metadata": {
+      "project": "mobile_redesign",
+      "research_phase": "discovery"
+    }
+  },
+  {
+    "meeting_id": "meet_004",
+    "title": "Infrastructure Planning Session",
+    "description": "Planning infrastructure upgrades for Q1 2025",
+    "participants": [
+      "user_006",
+      "user_001",
+      "user_010",
+      "user_002"
+    ],
+    "organizer": "user_006",
+    "start_time": "2024-12-17T15:00:00Z",
+    "end_time": "2024-12-17T16:00:00Z",
+    "time_zone": "America/Denver",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Current capacity analysis",
+      "Scaling requirements",
+      "Cost estimation",
+      "Timeline planning"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-13T11:00:00Z",
+    "updated_at": "2024-12-13T11:00:00Z",
+    "effectiveness_score": 7.9,
+    "metadata": {
+      "project": "infrastructure_upgrade",
+      "budget": "Q1-2025"
+    }
+  },
+  {
+    "meeting_id": "meet_005",
+    "title": "Weekly Team Retrospective",
+    "description": "Weekly retrospective for continuous improvement",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_007",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-20T19:00:00Z",
+    "end_time": "2024-12-20T20:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "What went well",
+      "What could be improved",
+      "Action items",
+      "Team feedback"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "weekly_friday",
+    "created_at": "2024-12-01T10:00:00Z",
+    "updated_at": "2024-12-01T10:00:00Z",
+    "effectiveness_score": 8.3,
+    "metadata": {
+      "sprint": "Sprint-24",
+      "team": "engineering"
+    }
+  },
+  {
+    "meeting_id": "meet_006",
+    "title": "Data Science Model Review",
+    "description": "Review of new ML model performance and deployment strategy",
+    "participants": [
+      "user_005",
+      "user_001",
+      "user_002",
+      "user_009"
+    ],
+    "organizer": "user_005",
+    "start_time": "2024-12-18T18:00:00Z",
+    "end_time": "2024-12-18T19:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Model accuracy metrics",
+      "Performance benchmarks",
+      "Deployment timeline",
+      "Risk assessment"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-15T14:00:00Z",
+    "updated_at": "2024-12-15T14:00:00Z",
+    "effectiveness_score": 9.1,
+    "metadata": {
+      "model": "recommendation_engine_v2",
+      "accuracy": "94.2%"
+    }
+  },
+  {
+    "meeting_id": "meet_007",
+    "title": "Cross-functional Alignment Meeting",
+    "description": "Alignment between Engineering, Product, and Design teams",
+    "participants": [
+      "user_001",
+      "user_003",
+      "user_004",
+      "user_010"
+    ],
+    "organizer": "user_010",
+    "start_time": "2024-12-19T16:00:00Z",
+    "end_time": "2024-12-19T17:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "team_meeting",
+    "status": "scheduled",
+    "location": "Executive Conference Room",
+    "agenda": [
+      "Q1 objectives alignment",
+      "Resource dependencies",
+      "Timeline coordination",
+      "Risk mitigation"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "bi_weekly",
+    "created_at": "2024-12-05T09:00:00Z",
+    "updated_at": "2024-12-05T09:00:00Z",
+    "effectiveness_score": 8.7,
+    "metadata": {
+      "quarter": "Q1-2025",
+      "cross_functional": true
+    }
+  },
+  {
+    "meeting_id": "meet_008",
+    "title": "QA Automation Strategy Discussion",
+    "description": "Planning automation strategy for testing pipeline",
+    "participants": [
+      "user_007",
+      "user_001",
+      "user_002",
+      "user_008"
+    ],
+    "organizer": "user_007",
+    "start_time": "2024-12-17T13:00:00Z",
+    "end_time": "2024-12-17T14:30:00Z",
+    "time_zone": "Europe/Madrid",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Current testing gaps",
+      "Automation tools evaluation",
+      "Implementation roadmap",
+      "Training needs"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-12T10:00:00Z",
+    "updated_at": "2024-12-12T10:00:00Z",
+    "effectiveness_score": 8.4,
+    "metadata": {
+      "project": "test_automation",
+      "tools": [
+        "selenium",
+        "cypress"
+      ]
+    }
+  },
+  {
+    "meeting_id": "meet_009",
+    "title": "Frontend Architecture Review",
+    "description": "Review of new frontend architecture and component library",
+    "participants": [
+      "user_008",
+      "user_004",
+      "user_001",
+      "user_003"
+    ],
+    "organizer": "user_008",
+    "start_time": "2024-12-18T15:00:00Z",
+    "end_time": "2024-12-18T16:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Component library demo",
+      "Performance improvements",
+      "Accessibility compliance",
+      "Migration plan"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-14T12:00:00Z",
+    "updated_at": "2024-12-14T12:00:00Z",
+    "effectiveness_score": 8.6,
+    "metadata": {
+      "project": "frontend_modernization",
+      "framework": "react_18"
+    }
+  },
+  {
+    "meeting_id": "meet_010",
+    "title": "Business Requirements Gathering",
+    "description": "Gathering requirements for new payment feature",
+    "participants": [
+      "user_009",
+      "user_003",
+      "user_001",
+      "user_005"
+    ],
+    "organizer": "user_009",
+    "start_time": "2024-12-19T09:30:00Z",
+    "end_time": "2024-12-19T11:00:00Z",
+    "time_zone": "Asia/Kolkata",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Business objectives",
+      "User stories",
+      "Technical constraints",
+      "Success metrics"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-16T07:00:00Z",
+    "updated_at": "2024-12-16T07:00:00Z",
+    "effectiveness_score": 8.9,
+    "metadata": {
+      "feature": "payment_gateway",
+      "priority": "high"
+    }
+  },
+  {
+    "meeting_id": "meet_011",
+    "title": "Monthly All-Hands Meeting",
+    "description": "Company-wide monthly update and announcements",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_003",
+      "user_004",
+      "user_005",
+      "user_006",
+      "user_007",
+      "user_008",
+      "user_009",
+      "user_010"
+    ],
+    "organizer": "user_010",
+    "start_time": "2024-12-20T17:00:00Z",
+    "end_time": "2024-12-20T18:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "all_hands",
+    "status": "scheduled",
+    "location": "Main Auditorium",
+    "agenda": [
+      "Company updates",
+      "Q4 achievements",
+      "Q1 2025 goals",
+      "Team recognitions"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "monthly_third_friday",
+    "created_at": "2024-12-01T08:00:00Z",
+    "updated_at": "2024-12-01T08:00:00Z",
+    "effectiveness_score": 7.8,
+    "metadata": {
+      "company_wide": true,
+      "attendance": "mandatory"
+    }
+  },
+  {
+    "meeting_id": "meet_012",
+    "title": "Security Review Session",
+    "description": "Monthly security review and vulnerability assessment",
+    "participants": [
+      "user_006",
+      "user_001",
+      "user_010",
+      "user_007"
+    ],
+    "organizer": "user_006",
+    "start_time": "2024-12-21T14:00:00Z",
+    "end_time": "2024-12-21T15:30:00Z",
+    "time_zone": "America/Denver",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Secure Conference Room",
+    "agenda": [
+      "Vulnerability scan results",
+      "Security patches",
+      "Compliance updates",
+      "Incident review"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "monthly_third_saturday",
+    "created_at": "2024-12-01T11:00:00Z",
+    "updated_at": "2024-12-01T11:00:00Z",
+    "effectiveness_score": 9.0,
+    "metadata": {
+      "security_level": "confidential",
+      "compliance": "SOC2"
+    }
+  },
+  {
+    "meeting_id": "meet_013",
+    "title": "Performance Optimization Workshop",
+    "description": "Workshop on application performance optimization techniques",
+    "participants": [
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_008"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-22T16:00:00Z",
+    "end_time": "2024-12-22T18:00:00Z",
+    "time_zone": "America/Los_Angeles",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Innovation Lab",
+    "agenda": [
+      "Database optimization",
+      "Caching strategies",
+      "Code profiling",
+      "Monitoring setup"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-18T13:00:00Z",
+    "updated_at": "2024-12-18T13:00:00Z",
+    "effectiveness_score": 8.7,
+    "metadata": {
+      "workshop": true,
+      "hands_on": true
+    }
+  },
+  {
+    "meeting_id": "meet_014",
+    "title": "Customer Feedback Analysis",
+    "description": "Analysis of recent customer feedback and feature requests",
+    "participants": [
+      "user_003",
+      "user_009",
+      "user_004",
+      "user_001"
+    ],
+    "organizer": "user_003",
+    "start_time": "2024-12-23T11:00:00Z",
+    "end_time": "2024-12-23T12:30:00Z",
+    "time_zone": "Europe/London",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Customer satisfaction scores",
+      "Feature request analysis",
+      "Pain point identification",
+      "Roadmap impact"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "bi_weekly",
+    "created_at": "2024-12-10T15:00:00Z",
+    "updated_at": "2024-12-10T15:00:00Z",
+    "effectiveness_score": 8.5,
+    "metadata": {
+      "customer_focus": true,
+      "nps_score": 8.2
+    }
+  },
+  {
+    "meeting_id": "meet_015",
+    "title": "API Design Review",
+    "description": "Review of new API endpoints and documentation",
+    "participants": [
+      "user_002",
+      "user_001",
+      "user_008",
+      "user_009"
+    ],
+    "organizer": "user_002",
+    "start_time": "2024-12-24T14:30:00Z",
+    "end_time": "2024-12-24T16:00:00Z",
+    "time_zone": "America/Los_Angeles",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "API specification review",
+      "Documentation completeness",
+      "Error handling",
+      "Rate limiting"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-20T10:00:00Z",
+    "updated_at": "2024-12-20T10:00:00Z",
+    "effectiveness_score": 8.8,
+    "metadata": {
+      "api_version": "v2.1",
+      "breaking_changes": false
+    }
+  },
+  {
+    "meeting_id": "meet_016",
+    "title": "One-on-One: Sarah & Marcus",
+    "description": "Weekly 1:1 between manager and direct report",
+    "participants": [
+      "user_001",
+      "user_002"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-16T15:00:00Z",
+    "end_time": "2024-12-16T15:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "1:1",
+    "status": "scheduled",
+    "location": "Sarah's Office",
+    "agenda": [
+      "Career development",
+      "Current projects",
+      "Feedback",
+      "Support needed"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "weekly_monday",
+    "created_at": "2024-12-01T09:00:00Z",
+    "updated_at": "2024-12-01T09:00:00Z",
+    "effectiveness_score": 9.3,
+    "metadata": {
+      "relationship": "manager_direct_report",
+      "confidential": true
+    }
+  },
+  {
+    "meeting_id": "meet_017",
+    "title": "Sprint Planning Session",
+    "description": "Planning for Sprint 25 with story estimation",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_005",
+      "user_006",
+      "user_007",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-23T14:00:00Z",
+    "end_time": "2024-12-23T16:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room C",
+    "agenda": [
+      "Sprint 24 review",
+      "Backlog grooming",
+      "Story point estimation",
+      "Sprint 25 commitment"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "bi_weekly",
+    "created_at": "2024-12-01T10:30:00Z",
+    "updated_at": "2024-12-01T10:30:00Z",
+    "effectiveness_score": 8.4,
+    "metadata": {
+      "sprint": "Sprint-25",
+      "story_points": 42
+    }
+  },
+  {
+    "meeting_id": "meet_018",
+    "title": "Design System Workshop",
+    "description": "Collaborative workshop on design system components",
+    "participants": [
+      "user_004",
+      "user_008",
+      "user_003",
+      "user_001"
+    ],
+    "organizer": "user_004",
+    "start_time": "2024-12-19T06:00:00Z",
+    "end_time": "2024-12-19T08:00:00Z",
+    "time_zone": "Asia/Seoul",
+    "meeting_type": "brainstorming",
+    "status": "scheduled",
+    "location": "Design Studio",
+    "agenda": [
+      "Component audit",
+      "Design tokens",
+      "Accessibility standards",
+      "Implementation guidelines"
+    ],
+    "recurring": false,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-15T05:00:00Z",
+    "updated_at": "2024-12-15T05:00:00Z",
+    "effectiveness_score": 8.9,
+    "metadata": {
+      "design_system": "v3.0",
+      "components": 24
+    }
+  },
+  {
+    "meeting_id": "meet_019",
+    "title": "Technical Debt Review",
+    "description": "Quarterly review of technical debt and prioritization",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_006",
+      "user_008",
+      "user_010"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-20T16:00:00Z",
+    "end_time": "2024-12-20T17:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Zoom",
+    "agenda": [
+      "Debt assessment",
+      "Impact analysis",
+      "Prioritization matrix",
+      "Remediation plan"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "quarterly",
+    "created_at": "2024-12-05T11:00:00Z",
+    "updated_at": "2024-12-05T11:00:00Z",
+    "effectiveness_score": 8.1,
+    "metadata": {
+      "debt_score": 7.2,
+      "priority": "high"
+    }
+  },
+  {
+    "meeting_id": "meet_020",
+    "title": "Mobile App Performance Review",
+    "description": "Review of mobile app performance metrics and optimization",
+    "participants": [
+      "user_008",
+      "user_004",
+      "user_005",
+      "user_003"
+    ],
+    "organizer": "user_008",
+    "start_time": "2024-12-21T15:30:00Z",
+    "end_time": "2024-12-21T16:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Performance metrics",
+      "User experience analysis",
+      "Optimization opportunities",
+      "Implementation roadmap"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-10T12:00:00Z",
+    "updated_at": "2024-12-10T12:00:00Z",
+    "effectiveness_score": 8.6,
+    "metadata": {
+      "app_version": "2.4.1",
+      "performance_score": 8.3
+    }
+  },
+  {
+    "meeting_id": "meet_021",
+    "title": "Database Migration Planning",
+    "description": "Planning database schema migration",
+    "participants": [
+      "user_002",
+      "user_005",
+      "user_006"
+    ],
+    "organizer": "user_006",
+    "start_time": "2024-12-26T14:30:00Z",
+    "end_time": "2024-12-26T16:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "planning",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Migration strategy",
+      "Rollback plan",
+      "Testing approach",
+      "Timeline"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-18T00:00:00Z",
+    "updated_at": "2024-12-21T00:00:00Z",
+    "effectiveness_score": 7.7,
+    "metadata": {
+      "generated": true,
+      "template": "database_migration_planning"
+    }
+  },
+  {
+    "meeting_id": "meet_022",
+    "title": "Code Review Session",
+    "description": "Weekly code review for quality assurance",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_008"
+    ],
+    "organizer": "user_008",
+    "start_time": "2025-01-05T15:30:00Z",
+    "end_time": "2025-01-05T16:30:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Pull request reviews",
+      "Code quality discussion",
+      "Best practices",
+      "Action items"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-31T00:00:00Z",
+    "updated_at": "2025-01-05T00:00:00Z",
+    "effectiveness_score": 8.7,
+    "metadata": {
+      "generated": true,
+      "template": "code_review_session"
+    }
+  },
+  {
+    "meeting_id": "meet_023",
+    "title": "User Testing Results Review",
+    "description": "Review of latest user testing session results",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_009"
+    ],
+    "organizer": "user_003",
+    "start_time": "2024-12-26T12:00:00Z",
+    "end_time": "2024-12-26T13:15:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Virtual - Teams",
+    "agenda": [
+      "Test findings",
+      "User feedback",
+      "Design implications",
+      "Next steps"
+    ],
+    "recurring": true,
+    "recurrence_pattern": "monthly",
+    "created_at": "2024-12-20T00:00:00Z",
+    "updated_at": "2024-12-22T00:00:00Z",
+    "effectiveness_score": 7.0,
+    "metadata": {
+      "generated": true,
+      "template": "user_testing_results_review"
+    }
+  },
+  {
+    "meeting_id": "meet_024",
+    "title": "Code Review Session",
+    "description": "Weekly code review for quality assurance",
+    "participants": [
+      "user_001",
+      "user_002",
+      "user_008"
+    ],
+    "organizer": "user_001",
+    "start_time": "2024-12-28T15:00:00Z",
+    "end_time": "2024-12-28T16:00:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room A",
+    "agenda": [
+      "Pull request reviews",
+      "Code quality discussion",
+      "Best practices",
+      "Action items"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-14T00:00:00Z",
+    "updated_at": "2024-12-23T00:00:00Z",
+    "effectiveness_score": 8.8,
+    "metadata": {
+      "generated": true,
+      "template": "code_review_session"
+    }
+  },
+  {
+    "meeting_id": "meet_025",
+    "title": "User Testing Results Review",
+    "description": "Review of latest user testing session results",
+    "participants": [
+      "user_004",
+      "user_003",
+      "user_009"
+    ],
+    "organizer": "user_003",
+    "start_time": "2025-01-04T09:30:00Z",
+    "end_time": "2025-01-04T10:45:00Z",
+    "time_zone": "America/New_York",
+    "meeting_type": "review",
+    "status": "scheduled",
+    "location": "Conference Room B",
+    "agenda": [
+      "Test findings",
+      "User feedback",
+      "Design implications",
+      "Next steps"
+    ],
+    "recurring": true,
+    "recurrence_pattern": null,
+    "created_at": "2024-12-31T00:00:00Z",
+    "updated_at": "2025-01-03T00:00:00Z",
+    "effectiveness_score": 7.1,
+    "metadata": {
+      "generated": true,
+      "template": "user_testing_results_review"
+    }
+  }
+]
